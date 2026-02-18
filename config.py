@@ -1,0 +1,1 @@
+LOGO_PATH = "pemilu.png"

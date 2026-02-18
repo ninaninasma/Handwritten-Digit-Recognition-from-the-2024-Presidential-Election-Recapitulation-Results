@@ -1,0 +1,49 @@
+Ekstraksi Fitur,Klasifikasi,Test Split,Akurasi (%),Model File
+Tanpa Ekstraksi,SVM,0.2,91.64,svm_tanpa_ekstraksi_split0.2.pkl
+Tanpa Ekstraksi,SVM,0.3,91.46,svm_tanpa_ekstraksi_split0.3.pkl
+Tanpa Ekstraksi,SVM,0.4,90.99,svm_tanpa_ekstraksi_split0.4.pkl
+HOG,SVM,0.2,97.66,svm_hog_split0.2.pkl
+HOG,SVM,0.3,97.7,svm_hog_split0.3.pkl
+HOG,SVM,0.4,97.43,svm_hog_split0.4.pkl
+Zoning,SVM,0.2,78.13,svm_zoning_split0.2.pkl
+Zoning,SVM,0.3,78.64,svm_zoning_split0.3.pkl
+Zoning,SVM,0.4,77.95,svm_zoning_split0.4.pkl
+PCA,SVM,0.2,54.97,svm_pca_split0.2.pkl
+PCA,SVM,0.3,63.08,svm_pca_split0.3.pkl
+PCA,SVM,0.4,64.15,svm_pca_split0.4.pkl
+HOG + Zoning,SVM,0.2,97.89,svm_hog_plus_zoning_split0.2.pkl
+HOG + Zoning,SVM,0.3,97.74,svm_hog_plus_zoning_split0.3.pkl
+HOG + Zoning,SVM,0.4,97.31,svm_hog_plus_zoning_split0.4.pkl
+HOG + PCA,SVM,0.2,97.72,svm_hog_plus_pca_split0.2.pkl
+HOG + PCA,SVM,0.3,97.7,svm_hog_plus_pca_split0.3.pkl
+HOG + PCA,SVM,0.4,97.4,svm_hog_plus_pca_split0.4.pkl
+Zoning + PCA,SVM,0.2,85.67,svm_zoning_plus_pca_split0.2.pkl
+Zoning + PCA,SVM,0.3,86.63,svm_zoning_plus_pca_split0.3.pkl
+Zoning + PCA,SVM,0.4,85.32,svm_zoning_plus_pca_split0.4.pkl
+HOG + Zoning + PCA,SVM,0.2,97.72,svm_hog_plus_zoning_plus_pca_split0.2.pkl
+HOG + Zoning + PCA,SVM,0.3,97.78,svm_hog_plus_zoning_plus_pca_split0.3.pkl
+HOG + Zoning + PCA,SVM,0.4,97.34,svm_hog_plus_zoning_plus_pca_split0.4.pkl
+Tanpa Ekstraksi,KNN,0.2,58.13,knn_tanpa_ekstraksi_split0.2.pkl
+Tanpa Ekstraksi,KNN,0.3,58.87,knn_tanpa_ekstraksi_split0.3.pkl
+Tanpa Ekstraksi,KNN,0.4,56.78,knn_tanpa_ekstraksi_split0.4.pkl
+HOG,KNN,0.2,96.78,knn_hog_split0.2.pkl
+HOG,KNN,0.3,96.69,knn_hog_split0.3.pkl
+HOG,KNN,0.4,96.35,knn_hog_split0.4.pkl
+Zoning,KNN,0.2,65.44,knn_zoning_split0.2.pkl
+Zoning,KNN,0.3,64.87,knn_zoning_split0.3.pkl
+Zoning,KNN,0.4,62.81,knn_zoning_split0.4.pkl
+PCA,KNN,0.2,49.12,knn_pca_split0.2.pkl
+PCA,KNN,0.3,56.73,knn_pca_split0.3.pkl
+PCA,KNN,0.4,55.18,knn_pca_split0.4.pkl
+HOG + Zoning,KNN,0.2,96.02,knn_hog_plus_zoning_split0.2.pkl
+HOG + Zoning,KNN,0.3,96.45,knn_hog_plus_zoning_split0.3.pkl
+HOG + Zoning,KNN,0.4,96.4,knn_hog_plus_zoning_split0.4.pkl
+HOG + PCA,KNN,0.2,96.61,knn_hog_plus_pca_split0.2.pkl
+HOG + PCA,KNN,0.3,96.61,knn_hog_plus_pca_split0.3.pkl
+HOG + PCA,KNN,0.4,96.4,knn_hog_plus_pca_split0.4.pkl
+Zoning + PCA,KNN,0.2,58.71,knn_zoning_plus_pca_split0.2.pkl
+Zoning + PCA,KNN,0.3,63.08,knn_zoning_plus_pca_split0.3.pkl
+Zoning + PCA,KNN,0.4,59.06,knn_zoning_plus_pca_split0.4.pkl
+HOG + Zoning + PCA,KNN,0.2,95.91,knn_hog_plus_zoning_plus_pca_split0.2.pkl
+HOG + Zoning + PCA,KNN,0.3,96.61,knn_hog_plus_zoning_plus_pca_split0.3.pkl
+HOG + Zoning + PCA,KNN,0.4,96.61,knn_hog_plus_zoning_plus_pca_split0.4.pkl
